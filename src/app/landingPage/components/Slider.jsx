@@ -75,12 +75,12 @@ export default function SectionHeaders({ ...rest }) {
                     classes.textCenter
                   )}
                 >
-                  <h1 className={classes.title}>Material Kit PRO React</h1>
+                  <h1 className={classes.title}>Beautiful Arizona</h1>
                   <h4>
-                    Dolce & Gabbana is a luxury Italian fashion house founded
-                    in 1985 in Legnano by Italian designers Domenico Dolce and
-                    Stefano Gabbana. The two met in Milan in 1980 and designed
-                    for the same fashion house.
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                    Cras tincidunt nibh placeratsem ullamcorper faucibus. Lorem
+                    ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
+                    aliquet ante ligula, at suscipit nisi gravida at
                   </h4>
                   <br />
                   <h6>Connect with us on:</h6>
@@ -111,25 +111,16 @@ export default function SectionHeaders({ ...rest }) {
             <div className={classes.container}>
               <GridContainer>
                 <GridItem xs={12} sm={6} md={6}>
-                  <h1 className={classes.title}>Material Kit PRO React</h1>
+                  <h1 className={classes.title}>Looking for adventures ?</h1>
                   <h4>
-                    Dolce & Gabbana is a luxury Italian fashion house founded
-                    in 1985 in Legnano by Italian designers Domenico Dolce and
-                    Stefano Gabbana. The two met in Milan in 1980 and designed
-                    for the same fashion house.
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                    Cras tincidunt nibh placeratsem ullamcorper faucibus. Lorem
+                    ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
+                    aliquet ante ligula, at suscipit nisi gravida at
                   </h4>
                   <br />
                   <Button color="danger" size="lg">
-                    Read more
-                  </Button>
-                  <Button justIcon color="white" simple>
-                    <i className="fab fa-twitter" />
-                  </Button>
-                  <Button justIcon color="white" simple>
-                    <i className="fab fa-facebook-square" />
-                  </Button>
-                  <Button justIcon color="white" simple>
-                    <i className="fab fa-get-pocket" />
+                    Tell me more
                   </Button>
                 </GridItem>
               </GridContainer>

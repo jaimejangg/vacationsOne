@@ -32,6 +32,18 @@ const Info = ({ ...rest }) => {
                 description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt nibh placerat sem ullamco"
                 iconColor="primary"
               />
+            </GridItem>
+          </GridContainer>
+          <GridContainer>
+            <GridItem xs={12} sm={6} md={6}>
+              <h2 className={classes.title}>Treatise</h2>
+              <InfoArea
+                className={classes.infoArea}
+                icon={FiberManualRecord}
+                title="Lorem ipsum dolor "
+                description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt nibh placerat sem ullamco"
+                iconColor="primary"
+              />
               <InfoArea
                 className={classes.infoArea}
                 icon={FiberManualRecord}

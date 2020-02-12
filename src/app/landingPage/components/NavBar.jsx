@@ -22,7 +22,7 @@ const NavBar = ({ ...rest }) => {
               <ListItem className={classes.listItem}>
                 <Button
                   color="transparent"
-                  href="https://twitter.com/CreativeTim?ref=creativetim"
+                  href="https://www.linkedin.com/in/jaime-rueda-686899108/"
                   target="_blank"
                   className={classes.navLink + " " + classes.navLinkJustIcon}
                 >
@@ -32,7 +32,7 @@ const NavBar = ({ ...rest }) => {
               <ListItem className={classes.listItem}>
                 <Button
                   color="transparent"
-                  href="https://www.facebook.com/CreativeTim?ref=creativetim"
+                  href="https://www.linkedin.com/in/jaime-rueda-686899108/"
                   target="_blank"
                   className={classes.navLink + " " + classes.navLinkJustIcon}
                 >
@@ -42,7 +42,7 @@ const NavBar = ({ ...rest }) => {
               <ListItem className={classes.listItem}>
                 <Button
                   color="transparent"
-                  href="https://www.instagram.com/CreativeTimOfficial?ref=creativetim"
+                  href="https://www.linkedin.com/in/jaime-rueda-686899108/"
                   target="_blank"
                   className={classes.navLink + " " + classes.navLinkJustIcon}
                 >
